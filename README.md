@@ -4,13 +4,16 @@
 
 This project allows you to generate Android-related tweets using Google's Gemini API and post them to Twitter at scheduled times. It's perfect for developers who want to maintain an active Twitter presence without manual effort.
 
----
+
+## Automated ID 
+ - [henil_private](https://x.com/henil_private)
+
 
 ## Features
 
 - **Automated Tweet Generation**: Uses Google's Gemini API to generate Android-related tweets.
 - **Scheduled Posting**: Posts tweets at specified times (e.g., 10 AM, 12 PM, 7 PM).
-- **Customizable Content**: Easily modify the tweet categories (Android Dev, Motivational, Gen Z).
+- **Customizable Content**: Easily modify the tweet categories (Android Dev, Egnineering topics, Gen Z topics).
 - **Free Deployment Options**: Can be deployed on free platforms.
 
 ---
@@ -33,3 +36,5 @@ Before running the project, ensure you have the following:
 ```bash
 git clone https://github.com/Henil-chhipani/X-Twitter-Automation.git
 cd X-Twitter-Automation
+
+
