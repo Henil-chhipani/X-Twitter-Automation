@@ -143,13 +143,13 @@ def post_scheduled_tweets():
 
 
 # Schedule tasks
-schedule.every().day.at("12:00:01").do(
+schedule.every().day.at("15:00:01").do(
     generate_tweets)  # Generate tweets at 7 AM
 schedule.every().day.at("15:47:30").do(
     post_scheduled_tweets)  # Post first tweet at 10 AM
-schedule.every().day.at("03:47:33").do(
+schedule.every().day.at("15:47:33").do(
     post_scheduled_tweets)  # Post second tweet at 12 PM
-schedule.every().day.at("03:47:35").do(
+schedule.every().day.at("15:47:35").do(
     post_scheduled_tweets)  # Post third tweet at 7 PM
 
 # Keep the script running
