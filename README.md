@@ -31,5 +31,5 @@ Before running the project, ensure you have the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tweet-automation.git
-cd tweet-automation
+git clone https://github.com/Henil-chhipani/X-Twitter-Automation.git
+cd X-Twitter-Automation
